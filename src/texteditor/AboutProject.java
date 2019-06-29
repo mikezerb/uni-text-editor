@@ -35,7 +35,7 @@ public AboutProject() {
     //Setting the Info panel:
     InfoPanel.setEditable(false);
     InfoPanel.setBorder(BorderFactory.createTitledBorder("Project Info"));
-    InfoPanel.setText("\nΤελική Εργασία για το τμήμα ΜΑΕ03 (Τρίτη 9-11) : \n\n ΑΜ: 171059\n Ονοματεπώνυμο: Μιχαήλ Αποστολίδης\n Εξάμηνο: 4ο\n Email: cs171059@uniwa.gr\n\n Ημερομηνία Παράδοσης: 24/6/2019\n\n Άσκηση ανάπτυξης εφαρμογής Text Editor.");
+    InfoPanel.setText("\nΤελική Εργασία ΜΑΕ : \n\n ΑΜ: -------\n Ονοματεπώνυμο: ------------\n Εξάμηνο: --\n Email: --------@-----.gr\n\n Ημερομηνία Παράδοσης: 24/6/2019\n\n Άσκηση ανάπτυξης εφαρμογής Text Editor.");
     
     //Setting the Uniwa Logo:
     LogoLbl.setIcon(new ImageIcon(getClass().getResource("logo-pada.png")));        
